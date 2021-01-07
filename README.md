@@ -1,5 +1,6 @@
 # Unity FPS Maze Game
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/christopher-boustros/Unity-FPS-Maze-Game)
+![GitHub code size](https://img.shields.io/github/languages/code-size/christopher-boustros/Unity-FPS-Maze-Game "Code size")
+![GitHub license](https://img.shields.io/github/license/christopher-boustros/Unity-FPS-Maze-Game "License")
 
 A 3D first-person shooter game made with Unity in which the player must traverse and destroy a randomly-generated maze. This game was made as part of a course assignment for COMP 521 Modern Computer Games in fall 2020 at McGill University. The goal of the assignment was to implement maze generation algorithms. 
 
